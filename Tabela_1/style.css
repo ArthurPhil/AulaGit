@@ -1,0 +1,24 @@
+table  {
+    font-style:inherit;
+}
+
+#cab1 {
+background-color: #0D5188;
+color: white;
+text-align: center;
+}
+#cab2 {
+    background-color: #66C5E3;
+
+}
+.lin {
+    background-color: #C7E7F3;
+
+}
+.col1 {
+    background-color: silver;
+
+}
+.city {
+    color: #0D5188;
+}
